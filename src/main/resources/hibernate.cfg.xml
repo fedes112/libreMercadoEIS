@@ -23,6 +23,7 @@
 
 		<mapping class="modelo.Personaje" /> <!-- Para tener un ej-->
 		<mapping class="modelo.Item" />
+		<mapping class="modelo.Publicacion" />
 
 	</session-factory>
 </hibernate-configuration>
