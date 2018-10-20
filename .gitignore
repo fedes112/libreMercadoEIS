@@ -1,0 +1,14 @@
+
+.idea/workspace.xml
+target/classes/backend/impl/HibernatePublicacionDAO.class
+target/classes/backend/PublicacionDAO.class
+target/classes/hibernate.cfg.xml
+target/classes/modelo/Publicacion.class
+target/classes/service/runner/Runner.class
+target/classes/service/ServicePublicacion.class
+target/test-classes/backendTest/PublicacionServiceTest.class
+target/test-classes/modeloTest/PublicacionTest.class
+*.class
+*.class
+*.class
+.idea/workspace.xml
