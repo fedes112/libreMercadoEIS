@@ -7,10 +7,10 @@ import javax.persistence.Id;
 @Entity
 public class Publicacion {
 
-    @Id
-    @GeneratedValue
-    private int id;
 
+   /* @GeneratedValue
+    private int id;*/
+   @Id
     private String nombreDeLaPublicacion;
     private Double precioProducto;
     private Double stock;
@@ -19,6 +19,10 @@ public class Publicacion {
         this.nombreDeLaPublicacion = nombreDeLaPublicacion;
         this.precioProducto = precioProducto;
         this.stock = stock;
+
+    }
+
+    public Publicacion(){
 
     }
 
@@ -32,5 +36,9 @@ public class Publicacion {
 
     public double getStock() {
         return this.stock;
+    }
+
+    public String getNombre() {
+        return this.nombreDeLaPublicacion;
     }
 }
