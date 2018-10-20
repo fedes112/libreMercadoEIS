@@ -5,8 +5,3 @@ target/classes/backend/impl/HibernatePersonajeDAO.class
 target/classes/backend/impl/HibernatePublicacionDAO.class
 .idea/workspace.xml
 *.class
-target/classes/modelo/Item.class
-target/classes/backend/impl/HibernatePersonajeDAO.class
-target/classes/backend/ItemDAO.class
-*.class
-*.class
