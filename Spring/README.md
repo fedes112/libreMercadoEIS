@@ -8,6 +8,7 @@
 2. Como Cliente quiero poder borrar una publicación propia
 
 **Estado del servidor de Integracion Continua**
+
 ![Grafico](/Spring/Images/Grafico.PNG)
 
 **Retrospectiva del sprint:**
